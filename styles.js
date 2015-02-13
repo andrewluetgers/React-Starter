@@ -1,7 +1,7 @@
 
 module.exports = {
 	// keep in sync with webpack styles below
-	cssSrc: [".src/common/reset/reset.css"],
+	cssSrc: ["./src/common/reset/reset.css"],
 	stylSrc: ["./src/app.styl"],
 
 	webpackStylesBootstrap: function() {
