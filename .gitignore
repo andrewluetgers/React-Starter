@@ -1,0 +1,7 @@
+build
+node_modules
+.DS_Store
+npm-debug.log
+atlassian-ide-plugin.xml
+rethinkdb_data
+.idea
